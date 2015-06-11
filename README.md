@@ -1,7 +1,7 @@
 # PathFolio #
 ## The Online Character Sheet Helper ##
 
-This project is currently in development as a personal project. Future link to deployed project here.
+This project is currently in development as a personal project. [Visit the deployed project here](http://pathfolio.herokuapp.com).
 
 ## Running This Project ##
 If you would like to run this project yourself, fork the repository, then in the application's directory run:
