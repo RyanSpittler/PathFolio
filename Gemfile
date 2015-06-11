@@ -7,9 +7,15 @@ gem 'guard-rspec'
 gem 'faker'
 gem 'factory_girl_rails'
 gem 'capybara'
+gem 'rspec-collection_matchers'
+gem 'shoulda-matchers'
+gem 'launchy'
+gem 'letter_opener'
 
 # Front end gems
 gem 'bootstrap-generators'
+# Also adding social buttons
+gem 'font-awesome-sass'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
