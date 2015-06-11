@@ -17,6 +17,9 @@ gem 'bootstrap-generators'
 # Also adding social buttons
 gem 'font-awesome-sass'
 
+# Back end gem for variables
+gem 'dotenv'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
 # Use SCSS for stylesheets
