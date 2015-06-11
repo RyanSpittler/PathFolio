@@ -17,4 +17,4 @@
 /tmp
 
 # Ignore the secret keys
-/config/secrets.yml
+.env
